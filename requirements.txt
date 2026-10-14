@@ -1,0 +1,16 @@
+Django>=4.2,<5.0
+django-jazzmin>=3.0
+djangorestframework>=3.14
+djangorestframework-simplejwt>=5.3
+django-cors-headers>=4.3
+requests>=2.31
+groq>=0.9.0
+openai>=1.40.0
+urllib3>=1.26
+gunicorn>=21.2
+whitenoise>=6.6
+dj-database-url>=2.1
+psycopg2-binary>=2.9
+channels>=4.0
+daphne>=4.0
+channels-redis>=4.2
